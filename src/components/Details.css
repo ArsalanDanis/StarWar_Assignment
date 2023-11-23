@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    width: 900px;
+    color: white;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+
+.largeImage {
+    width: 400px;
+    height: 350px;
+    border-radius: 8px;
+}
